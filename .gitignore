@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# dlib models
+models/*.dat
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+.DS_Store
